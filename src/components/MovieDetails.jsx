@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
 import { Oval } from "react-loader-spinner";
-import star from "../assets/star.svg";
+import star from "../icons/star.svg";
 
 import SideMenu from "./SideMenu";
 
