@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Oval } from "react-loader-spinner";
-import imdb from "../icon/imdb.svg";
-import tomato from "../icon/tomato.svg";
+import imdb from "../icons/imdb.svg";
+import tomato from "../icons/tomato.svg";
 
 const MovieCard = ({ movieList, err, isPending }) => {
   return (
