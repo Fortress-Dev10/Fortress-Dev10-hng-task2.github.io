@@ -1,11 +1,11 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import tv from "../assets/tv.svg";
-import home from "../assets/home.svg";
-import logout from "../assets/logout.svg";
-import movieProjector from "../assets/movieProjector.svg";
-import calendar from "../assets/calendar.svg";
-import tvShow from "../assets/tvShow.svg";
+import tv from "../icons/tv.svg";
+import home from "../icons/home.svg";
+import logout from "../icons/logout.svg";
+import movieProjector from "../icons/movieProjector.svg";
+import calendar from "../icons/calendar.svg";
+import tvShow from "../icons/tvShow.svg";
 
 const SideMenu = () => {
   return (
